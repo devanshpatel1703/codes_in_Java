@@ -31,7 +31,7 @@ class HelloWorld {
                     ans=ans+str2.charAt(i);
                 }
                 else{
-                    ans=ans+str1.charAt(i);
+                    ans=ans+str2.charAt(i);
                 }
             }
         }
